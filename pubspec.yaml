@@ -38,6 +38,7 @@ dependencies:
   pin_code_fields:
   flutter_screenutil: 
   flutter_svg: 
+  firebase_core: ^3.1.0
 
 dev_dependencies:
   flutter_test:

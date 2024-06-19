@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104706679185",
+    "project_id": "persifolio-36d43",
+    "storage_bucket": "persifolio-36d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104706679185:android:38def941aeda15edc37a30",
+        "android_client_info": {
+          "package_name": "com.alsde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5DXK96vi4TwPS95a_uepV1rVtV_wsiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104706679185:android:b351aba18a209156c37a30",
+        "android_client_info": {
+          "package_name": "com.example.inevestment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5DXK96vi4TwPS95a_uepV1rVtV_wsiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
